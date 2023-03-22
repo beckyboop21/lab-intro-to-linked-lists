@@ -24,7 +24,7 @@ npm test
 
 This will run the test output once.
 
-Two arrays to work with if you want to test within your file:
+Two arrays to work with if you want to manually test within your JS file using your terminal:
 
 ```js
 const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 0];
