@@ -24,21 +24,21 @@ npm test
 
 This will run the test output once.
 
-Two arrays to work with:
+Two arrays to work with if you want to test within your file:
 
 ```js
 const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 0];
 
 const panagram = [
-  "The",
-  "quick",
-  "brown",
-  "fox",
-  "jumps",
-  "over",
-  "the",
-  "lazy",
-  "dog",
+  'The',
+  'quick',
+  'brown',
+  'fox',
+  'jumps',
+  'over',
+  'the',
+  'lazy',
+  'dog'
 ];
 ```
 
@@ -62,6 +62,8 @@ You will
   - `clear` the linked list
   - `toArray`convert data from linked list to an array
   - `containsDuplicates` check for duplicates - return true if contains duplicates, false if not
+
+**You will want to create the methods in order, as some methods depend on their previous methods**
 
 ## Bonus
 
