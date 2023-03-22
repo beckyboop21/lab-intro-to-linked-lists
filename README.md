@@ -63,7 +63,7 @@ You will
   - `toArray`convert data from linked list to an array
   - `containsDuplicates` check for duplicates - return true if contains duplicates, false if not
 
-\*\***NOTE: You will want to create the methods in order, as some methods depend on their previous methods**
+\*\***NOTE: You will want to create the methods in order, as some methods depend on the previous methods**
 
 ## Bonus
 
